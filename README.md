@@ -1,1 +1,1 @@
-# Assets for my blog
+# Assets for Blog
